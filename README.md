@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Fernanda 👋
+zero to hero <3
 
-<!--
-**fernanda-bracho/fernanda-bracho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student focused on learning
 
-Here are some ideas to get you started:
+About me
+I am currently building my first personal and professional projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the same time, I am expanding my skills in Java with a focus on object-oriented programming, while exploring cloud technologies such as AWS.
+
+Tech Stack
+💻 Languages: Java, JavaScript
+🌐 Frontend: HTML5, CSS3, Responsive Design
+⚙️ Tools: Git, GitHub, VS Code
+☁️ Cloud: AWS (currently learning)
+GitHub Stats
+GitHub Streak
+
+Top Languages
+
+Contact
+💼 LinkedIn: www.linkedin.com/in/ fernanda-bracho-güitron-1b9731323
+
+📧 Email: fernanda06guitron@gmail.com
