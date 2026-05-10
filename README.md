@@ -7,9 +7,8 @@ Systems Engineering student focused on learning
 # About me
 I am currently building my first personal and professional projects.
 
-At the same time, I am expanding my skills in Java with a focus on object-oriented programming, while exploring cloud technologies such as AWS.
 ## Tech Stack
-* 💻 **Languages:** Java, JavaScript
+* 💻 **Languages:** Java, JavaScript, C
 * 🌐 **Frontend:** HTML5, CSS3, Responsive Design
 * ⚙️ **Tools:** Git, GitHub, VS Code
 * ☁️ **Cloud:** AWS (currently learning)
