@@ -25,3 +25,5 @@ I am currently building my first personal and professional projects.
 - 💼 LinkedIn: www.linkedin.com/in/ fernanda-bracho-güitron-1b9731323
  
 - 📧 Email: fernanda06guitron@gmail.com
+
+- ## ZERO TO HEROOOOOO!!!!!!
